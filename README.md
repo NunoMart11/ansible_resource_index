@@ -1,7 +1,4 @@
 # **Ansible Resources Index**
-This is meant to be a living document and is not even close to complete.  It will be updated with "relative" frequency.  If you know of resources that should be added please contact me: shawn.porter@wwt.com
-
-
 
 ------
 
